@@ -1,0 +1,6 @@
+{
+  "name": "NYEMEK! — Dimsum Pedas Bikin Nagih",
+  "description": "Website e-commerce makanan dimsum pedas NYEMEK! dengan katalog interaktif, keranjang belanja, checkout WhatsApp, dan admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
